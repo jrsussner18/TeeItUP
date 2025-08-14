@@ -25,7 +25,7 @@ This app was built as a **portfolio project** to showcase practical use of:
 
 | About View            | Course View      | Account View |
 |---------------------|--------------------------|------------------|
-| ![](screenshots/about.png) | ![](screenshots/course.png) | ![](screenshots/account.png) |
+| ![](screenshots/about.PNG) | ![](screenshots/course.PNG) | ![](screenshots/account.PNG) |
 
 ---
 
